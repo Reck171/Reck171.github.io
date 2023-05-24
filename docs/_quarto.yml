@@ -1,0 +1,17 @@
+project:
+  type: website
+
+website:
+  title: "Lab7"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/Reck171
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+editor: visual
+

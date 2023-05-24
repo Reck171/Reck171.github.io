@@ -1,0 +1,21 @@
+.header navbar-brand-container{
+  color: #424242;
+}
+
+body {
+    padding: 200px;
+    margin: 0;
+    font-family: "Roboto";
+    background-color: #e8e8e8;
+}
+
+body .nav-fixed{
+  color: #424242;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    margin: 0 auto;
+}
